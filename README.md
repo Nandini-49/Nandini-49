@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Nandini and I am currently finishing my Computer Science Engineering Bachelor's degree at National Insitute of Technology, Arunahcal Pradesh!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Nandini-49/Nandini-49/blob/main/img.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
